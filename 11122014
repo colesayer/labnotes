@@ -1,0 +1,27 @@
+Git and Versioning/Version Control
+
+File System – constantly changing “content”
+Stage – Bundling the changes into one package
+Journal – Where you make official versions
+
+Labor tracking
+Packaging changes
+
+Git Init – Initializes Git
+Git Add – Add stage
+Git Commit – “journal”
+Git Push – upload to cloud
+
+Github- free cloud server for pushed versions
+
+Git init – initializes git within directory
+Git status – status update
+Git add file.txt – places file on stage
+
+
+Do some changes – stage the file – these are restore points for later
+
+Git remote add origin https://github.com/denten/mycoolnewproject.git
+Git push –u origin master
+<enter username and pw>
+
