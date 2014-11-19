@@ -1,0 +1,99 @@
+Mkdir test				<mdir = make directory>
+Touch apples.txt			<touch = to make a file and place in the directory>
+Touch oranges.txt
+Touch bananas.md
+
+Cat					<show contents of a file>
+
+Find . –name “ora*”			< . = in this directory, / = root >
+					<* = wildcarding, ora* means starts with ora ends with whatever>
+
+
+head 					<peak at the beginning>
+tail					<peak at the end>
+
+grep “moby dick”pg2701.txt              <grep = search for instances of “moby dick” in the file pg2701.txt”
+
+nano apples.txt 			<nano opens the file in a text editor>
+
+
+grep –r “orange”                                 	<-r = recursive, searches directories>
+
+sort 					<command that by default sorts a file alpha numerically>
+
+built into unix linux is the idea of a sentence. It’s linguistic, operating character by character  rather than bit by bit. 
+
+sed 's/day/night/' 24hr.txt		<substitute night for day in the file 24hr.txt>
+sed –i ‘s/day/night/’ 24hr.txt	<-i means in place of, will rewrite the file>
+
+analyze the treatment of gender in moby dick
+
+create a new project directory, grab moby dick,
+
+ make a file called male and list words to do with male
+
+make a new file called female and list words to do with female
+
+grep moby dick with the male words and make a new file, losing the common English words like the, and, etc.
+
+use 3 pieces of your own writing, convert to plain text, make a list of “weasel words”
+
+> this command will create a new file
+-f in grep, obtain patterns from file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
