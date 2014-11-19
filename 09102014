@@ -1,0 +1,41 @@
+Bash – list of terminal commands
+“Ls”
+
+Columbia super cluster computer
+
+Textual system – on a very low level, the idea of producing human readable text is baked into the philosophy of the coding system. Is “coding system” a bitp redundant?
+
+Pwd- path to working directory - path to where u are
+Ls – List 
+
+Works in lieu of a graphical interface
+
+Man – manual – brings up a reference page i.e. man ls will give you a detailed description of the ls command
+
+Clear – clear terminal
+
+Cd – clear directory
+
+.. – move one directory up (back) “cd ..”
+
+/ = root
+
+cd ~ = go to home directory
+
+ls from bin directorycl
+
+syntax of linux commands
+
+transitive verb – adverb – (predicate) object
+
+“give violently the pencil”
+
+ls /bin/ “list contents of the root starting with bin”
+
+everything has a path
+
+when you’re in a directory and you list the contents of that directory, you can then type cd “directory name” to move into the next directory
+
+mkdir = make directory
+
+cat – concatenate files and print on the standard output
