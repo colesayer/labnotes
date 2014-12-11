@@ -1,0 +1,25 @@
+Ports, open-close, determines security permissions
+
+Aws.amazon.com
+
+Change inbound security permission
+
+Ssh tcp 22 custom ip 0.0.0.0/
+
+Ssh stands for secure shell – it applies to logging in to a computer
+from another computer, allowing you to execute commands and move files
+
+Ssh –I \~path to permission file\~
+
+Scp – secure copy
+
+Rsync – faster, flexiple replacement for rcp (remote file copy)
+
+Cron – daemon (soul of its own) to execute scheduled commands
+
+**Amazon aws public data sets**
+
+<https://github.com/denten/dhnotes/wiki>
+
+apt get – to install anything on linux machines
+
